@@ -1,8 +1,8 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
-baseurl:            "/"
+title:              John Golec
+email:              jgolec0323@gmail.com
+description:        My Personal Website
+author:             John Golec
+baseurl:            "/home"
 url:                "https://jgolec0323.github.io"
 
 # Social Profiles
